@@ -1,0 +1,4 @@
+mkdir /mnt/hls
+mkdir /mnt/recordings
+chown www:www /mnt/hls
+chown www:www /mnt/recordings
